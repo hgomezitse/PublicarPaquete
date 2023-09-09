@@ -1,5 +1,5 @@
 {
-  "name": "hgpaquete",
+  "name": "@hgomezitse/hgpaquete",
   "version": "1.0.0",
   "description": "paquete inicial",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hgomezitse/PublicarPaquete/issues"
   },
-  "homepage": "https://github.com/hgomezitse/PublicarPaquete#readme"
+  "homepage": "https://github.com/hgomezitse/PublicarPaquete#readme",
+  "keywords": [
+    "p1"
+  ]
 }
