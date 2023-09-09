@@ -1,5 +1,7 @@
 {
+
   "name": "@hgomezitse/hgpaquete",
+
   "version": "1.0.0",
   "description": "paquete inicial",
   "main": "index.js",
@@ -14,9 +16,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hgomezitse/PublicarPaquete/issues"
-  },
-  "homepage": "https://github.com/hgomezitse/PublicarPaquete#readme",
-  "keywords": [
-    "p1"
-  ]
+  }
 }
