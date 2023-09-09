@@ -1,3 +1,19 @@
 {
-  "your": "json config here"
+  "name": "hgpaquete",
+  "version": "1.0.0",
+  "description": "paquete inicial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgomezitse/PublicarPaquete.git"
+  },
+  "author": "Harold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hgomezitse/PublicarPaquete/issues"
+  },
+  "homepage": "https://github.com/hgomezitse/PublicarPaquete#readme"
 }
